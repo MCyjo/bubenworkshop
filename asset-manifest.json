@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bubenworkshop/static/css/main.7bd8ff6c.chunk.css",
+    "main.js": "/bubenworkshop/static/js/main.e6e667df.chunk.js",
+    "main.js.map": "/bubenworkshop/static/js/main.e6e667df.chunk.js.map",
+    "runtime-main.js": "/bubenworkshop/static/js/runtime-main.fb0c9309.js",
+    "runtime-main.js.map": "/bubenworkshop/static/js/runtime-main.fb0c9309.js.map",
+    "static/css/2.800be05e.chunk.css": "/bubenworkshop/static/css/2.800be05e.chunk.css",
+    "static/js/2.b4e6d58c.chunk.js": "/bubenworkshop/static/js/2.b4e6d58c.chunk.js",
+    "static/js/2.b4e6d58c.chunk.js.map": "/bubenworkshop/static/js/2.b4e6d58c.chunk.js.map",
+    "index.html": "/bubenworkshop/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/bubenworkshop/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.7bd8ff6c.chunk.css.map": "/bubenworkshop/static/css/main.7bd8ff6c.chunk.css.map",
+    "static/js/2.b4e6d58c.chunk.js.LICENSE.txt": "/bubenworkshop/static/js/2.b4e6d58c.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/bubenworkshop/static/media/1804508.f3c5e4ac.jpg",
+    "static/media/bmwLogo.e28e4e1c.jpg": "/bubenworkshop/static/media/bmwLogo.e28e4e1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0c9309.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.b4e6d58c.chunk.js",
+    "static/css/main.7bd8ff6c.chunk.css",
+    "static/js/main.e6e667df.chunk.js"
+  ]
+}
