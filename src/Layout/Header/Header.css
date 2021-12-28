@@ -1,0 +1,15 @@
+
+  .customNavbarBackground{
+    background-image: url("../../Image/1804508.jpg");
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;  
+    height: 100px;
+    font-size: 25px;
+    color: orange;
+  }
+
+  .customNavItemPadding{
+    margin: 10px;
+    color: rgb(204, 204, 204);
+  }
