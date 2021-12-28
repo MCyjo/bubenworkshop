@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bubenworkshop/static/css/main.7521e8bd.chunk.css",
+    "main.css": "/bubenworkshop/static/css/main.adc26e5f.chunk.css",
     "main.js": "/bubenworkshop/static/js/main.315517fe.chunk.js",
     "main.js.map": "/bubenworkshop/static/js/main.315517fe.chunk.js.map",
     "runtime-main.js": "/bubenworkshop/static/js/runtime-main.fb0c9309.js",
@@ -10,7 +10,7 @@
     "static/js/2.86a06f95.chunk.js.map": "/bubenworkshop/static/js/2.86a06f95.chunk.js.map",
     "index.html": "/bubenworkshop/index.html",
     "static/css/2.800be05e.chunk.css.map": "/bubenworkshop/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.7521e8bd.chunk.css.map": "/bubenworkshop/static/css/main.7521e8bd.chunk.css.map",
+    "static/css/main.adc26e5f.chunk.css.map": "/bubenworkshop/static/css/main.adc26e5f.chunk.css.map",
     "static/js/2.86a06f95.chunk.js.LICENSE.txt": "/bubenworkshop/static/js/2.86a06f95.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/bubenworkshop/static/media/1804508.f3c5e4ac.jpg",
     "static/media/bmwLogo.e28e4e1c.jpg": "/bubenworkshop/static/media/bmwLogo.e28e4e1c.jpg"
@@ -19,7 +19,7 @@
     "static/js/runtime-main.fb0c9309.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.86a06f95.chunk.js",
-    "static/css/main.7521e8bd.chunk.css",
+    "static/css/main.adc26e5f.chunk.css",
     "static/js/main.315517fe.chunk.js"
   ]
 }
