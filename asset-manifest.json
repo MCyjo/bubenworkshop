@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bubenworkshop/static/css/main.006bd94c.chunk.css",
-    "main.js": "/bubenworkshop/static/js/main.a288ae2f.chunk.js",
-    "main.js.map": "/bubenworkshop/static/js/main.a288ae2f.chunk.js.map",
+    "main.js": "/bubenworkshop/static/js/main.cecf8355.chunk.js",
+    "main.js.map": "/bubenworkshop/static/js/main.cecf8355.chunk.js.map",
     "runtime-main.js": "/bubenworkshop/static/js/runtime-main.fb0c9309.js",
     "runtime-main.js.map": "/bubenworkshop/static/js/runtime-main.fb0c9309.js.map",
     "static/css/2.800be05e.chunk.css": "/bubenworkshop/static/css/2.800be05e.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.86a06f95.chunk.js",
     "static/css/main.006bd94c.chunk.css",
-    "static/js/main.a288ae2f.chunk.js"
+    "static/js/main.cecf8355.chunk.js"
   ]
 }
